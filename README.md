@@ -1,1 +1,1 @@
-# dino
+# Dino-Platformer
